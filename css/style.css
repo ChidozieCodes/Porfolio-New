@@ -662,3 +662,72 @@ nav{
 	font-size: 18px;
 	margin-left: 5%;
 }
+#footer{
+    width: 100%;
+    background-color: #0b0c0f;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#footer_inner{
+    width: 90%;
+    margin: auto;
+    background-color: #131417;
+    display: flex;
+}
+#footerbox1{
+    width: 45%;
+    background-color: #3E3E3E;
+    padding: 5%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+#footerbox1 h3{
+    color: white;
+    font-size: 35px;
+}
+#footerbox2{
+    width: 55%;
+    background-color: #D7DDEA;
+    padding: 5%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+form{
+    width: 100%;
+    margin-top: 6%;
+}
+form input{
+    width: 80%;
+    padding: 3%;
+    background-color: #0b0c0f;
+    margin: 2%;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+form textarea{
+    width: 80%;
+    padding: 3%;
+    padding-bottom: 6%;
+    background-color: #0b0c0f;
+    margin: 2%;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+form button{
+    width: 30%;
+    padding: 3%;
+    background-color: #e9ab37;
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+}
+#location{
+    width: 90%;
+}
